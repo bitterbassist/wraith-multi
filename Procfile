@@ -1,1 +1,1 @@
-web: python wraith-multi.py
+web: gunicorn wraith-multi:wraith-multi
