@@ -1,1 +1,1 @@
-wraith_multi.py
+worker: python wraith_multi.py
