@@ -46,4 +46,4 @@ typing_extensions==4.12.2
 websockets==14.1
 websockets_proxy==0.1.2
 wheel==0.45.1
-yarl==1.18.3
+
